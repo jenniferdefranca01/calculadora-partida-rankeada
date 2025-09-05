@@ -1,6 +1,6 @@
 # Calculadora de Partidas Rankeadas
  
-*O Que deve ser utilizado?**
+**O Que deve ser utilizado?**
 - Variáveis
 - Operadores
 - Laços de repetição
